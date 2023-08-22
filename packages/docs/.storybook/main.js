@@ -1,6 +1,7 @@
 module.exports = {
   "stories": [
     "../src/pages/**/*.stories.mdx",
+    "../src/stories/*.stories.tsx",
     "../src/stories/**/*.stories.tsx"
   ],
   "addons": [
@@ -18,7 +19,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/05-design-system/'
+      config.base = '/ignite-aula-05/'
     }
 
     return config
