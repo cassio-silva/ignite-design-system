@@ -1,0 +1,2 @@
+import{e as o,a as r}from"./index.419219b4.js";import{j as t}from"./jsx-runtime.87912010.js";import"./index.894cb683.js";import"./iframe.26570b43.js";import"./index.275cc924.js";const a={title:"Form/Tooltip",component:o,args:{children:t(r,{children:"Hover me!"}),label:"01 de Agosto - Dispon\xEDvel"}},l={},n=["Primary"];export{l as Primary,n as __namedExportsOrder,a as default};
+//# sourceMappingURL=Tooltip.stories.61a2e0f8.js.map
